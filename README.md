@@ -1,6 +1,6 @@
 # Fiche D&D — téléchargements
 
-Version **1.0.7** — fiche de personnage Donjons & Dragons 5e, 100 % hors-ligne.
+Version **1.0.8** — fiche de personnage Donjons & Dragons 5e, 100 % hors-ligne.
 
 | Fichier | Lien | Taille |
 |---|---|---|

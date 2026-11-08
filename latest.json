@@ -1,17 +1,17 @@
 {
-  "version": "1.0.7",
-  "date": "2026-11-08T12:29:04.083820+00:00",
-  "notes": "PV modifiables directement (clic sur les points de vie). Bouclier et arme à deux mains incompatibles. Version Android.",
+  "version": "1.0.8",
+  "date": "2026-11-08T13:10:33.750530+00:00",
+  "notes": "Correction : affichage des points de vie à 0 (jets contre la mort). PV modifiables directement, bouclier et arme à deux mains incompatibles.",
   "files": {
     "DndSheet.apk": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.apk",
       "size": 41194704,
-      "sha256": "4E6BF1CDAA9AFB4F540914D9F9DD75D2BA05B2305D9F021AEDF19020DF134977"
+      "sha256": "5839E0782A10FBE30B0C3B7F18DE41846E29A0855597685DCFBF31A07E0506ED"
     },
     "DndSheet.exe": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.exe",
-      "size": 73098360,
-      "sha256": "D9C9B64D8637C99D0B558DCCBC7B5A009C52588E005709E56CD348DB90B8B341"
+      "size": 73098532,
+      "sha256": "7948E0B99BD3E603B084B022D7DB53B697A7A0DF39C72A7A03DC0A0D45639DF0"
     }
   }
 }
