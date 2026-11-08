@@ -1,0 +1,17 @@
+{
+  "version": "1.0.3",
+  "date": "2026-11-08T11:10:47.542541+00:00",
+  "notes": "Version Android (.NET MAUI) et releases publiques.",
+  "files": {
+    "DndSheet.apk": {
+      "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.apk",
+      "size": 41190608,
+      "sha256": "BA4BCD1200F81A88C33CDE0BB5DFF1E205649C9D2FA010CBC3F5BAAF4C6FF724"
+    },
+    "DndSheet.exe": {
+      "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.exe",
+      "size": 73096047,
+      "sha256": "DA4CBF88E6CA16F6BF5D1723C4F75C00B51EE6B46FF9A54B1F73D8CF00F410B6"
+    }
+  }
+}
