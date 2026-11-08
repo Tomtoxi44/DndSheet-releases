@@ -1,17 +1,17 @@
 {
-  "version": "1.0.3",
-  "date": "2026-11-08T12:04:15.789030+00:00",
-  "notes": "Version Android (.NET MAUI) et releases publiques.",
+  "version": "1.0.7",
+  "date": "2026-11-08T12:29:04.083820+00:00",
+  "notes": "PV modifiables directement (clic sur les points de vie). Bouclier et arme à deux mains incompatibles. Version Android.",
   "files": {
     "DndSheet.apk": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.apk",
-      "size": 41190608,
-      "sha256": "BA4BCD1200F81A88C33CDE0BB5DFF1E205649C9D2FA010CBC3F5BAAF4C6FF724"
+      "size": 41194704,
+      "sha256": "4E6BF1CDAA9AFB4F540914D9F9DD75D2BA05B2305D9F021AEDF19020DF134977"
     },
     "DndSheet.exe": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.exe",
-      "size": 73096047,
-      "sha256": "DA4CBF88E6CA16F6BF5D1723C4F75C00B51EE6B46FF9A54B1F73D8CF00F410B6"
+      "size": 73098360,
+      "sha256": "D9C9B64D8637C99D0B558DCCBC7B5A009C52588E005709E56CD348DB90B8B341"
     }
   }
 }
