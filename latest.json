@@ -1,17 +1,17 @@
 {
-  "version": "1.0.8",
-  "date": "2026-11-08T13:10:33.750530+00:00",
-  "notes": "Correction : affichage des points de vie à 0 (jets contre la mort). PV modifiables directement, bouclier et arme à deux mains incompatibles.",
+  "version": "1.0.9",
+  "date": "2026-11-08T13:52:06.732177+00:00",
+  "notes": "Nouveau : armes personnalisées (dégâts, type, bonus au toucher et aux dégâts) et bonus toucher/dégâts sur toutes les armes.",
   "files": {
     "DndSheet.apk": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.apk",
-      "size": 41194704,
-      "sha256": "5839E0782A10FBE30B0C3B7F18DE41846E29A0855597685DCFBF31A07E0506ED"
+      "size": 41206992,
+      "sha256": "A22362C0542511522EFB632085B17227C811A8A354F3F5C8479CB5070F2A1B72"
     },
     "DndSheet.exe": {
       "url": "https://raw.githubusercontent.com/Tomtoxi44/DndSheet-releases/main/DndSheet.exe",
-      "size": 73098532,
-      "sha256": "7948E0B99BD3E603B084B022D7DB53B697A7A0DF39C72A7A03DC0A0D45639DF0"
+      "size": 73102027,
+      "sha256": "D23A228A23370CC1CEBDDA64190719C0CE5A511B59CEDD05F30AB832C3DD7CEB"
     }
   }
 }
